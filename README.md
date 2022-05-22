@@ -8,7 +8,7 @@ an app that sends plain text prompts to the OpenAI API and displays the results 
 
 <br>
 # Screenshot
-<img width="1121" alt="Screen Shot 2021-09-09 at 2 53 32 PM" src="">
+<img width="1121" alt="Screen Shot 2021-09-09 at 2 53 32 PM" src="https://github.com/rpierr33/openai-app/blob/main/img/Screen%20Shot%202022-05-21%20at%205.41.21%20PM.png">
 
 
 # Deployed App Link
